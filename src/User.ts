@@ -11,7 +11,7 @@ class User {
         this.password = password;
     }
 
-    public logic(): boolean {
+    public login(): boolean {
         return true
     }
     public register(): void {
